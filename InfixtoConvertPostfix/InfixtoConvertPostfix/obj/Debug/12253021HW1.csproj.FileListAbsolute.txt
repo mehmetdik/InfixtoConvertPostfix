@@ -1,0 +1,6 @@
+C:\Users\mehmet\documents\visual studio 2012\Projects\12253021HW1\12253021HW1\bin\Debug\12253021HW1.exe.config
+C:\Users\mehmet\documents\visual studio 2012\Projects\12253021HW1\12253021HW1\bin\Debug\12253021HW1.exe
+C:\Users\mehmet\documents\visual studio 2012\Projects\12253021HW1\12253021HW1\bin\Debug\12253021HW1.pdb
+C:\Users\mehmet\documents\visual studio 2012\Projects\12253021HW1\12253021HW1\obj\Debug\12253021HW1.exe
+C:\Users\mehmet\documents\visual studio 2012\Projects\12253021HW1\12253021HW1\obj\Debug\12253021HW1.pdb
+C:\Users\mehmet\documents\visual studio 2012\Projects\12253021HW1\12253021HW1\obj\Debug\12253021HW1.csprojResolveAssemblyReference.cache
